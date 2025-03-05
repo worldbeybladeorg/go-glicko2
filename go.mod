@@ -1,3 +1,3 @@
-module github.com/gregandcin/go-glicko2
+module github.com/worldbeybladeorg/go-glicko2
 
-go 1.12
+go 1.22

@@ -4,7 +4,7 @@ A Go implementation of [Glicko2 rating system](http://www.glicko.net/glicko.html
 
 ## Installation
 
-`go get -u github.com/gregandcin/go-glicko2`
+`go get -u github.com/worldbeybladeorg/go-glicko2`
 
 ## Usage
 
@@ -13,7 +13,7 @@ package main
 
 import (
     "fmt"
-    "github.com/gregandcin/go-glicko2"
+    "github.com/worldbeybladeorg/go-glicko2"
 )
 
 func main() {
